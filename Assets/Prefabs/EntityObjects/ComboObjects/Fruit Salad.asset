@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4280c43b4c00e4b4391840a6d9ae7d5e, type: 3}
+  m_Name: Fruit Salad
+  m_EditorClassIdentifier: 
+  name: Fruit Salad
+  score: 200
+  foods:
+  - {fileID: 11400000, guid: b0d2f837ca6a41244a272a5d7bdb5b56, type: 2}
+  - {fileID: 11400000, guid: 10e5fdc738e9c00488ad4d8d23662e60, type: 2}
+  - {fileID: 11400000, guid: 6409eafaf77303040999b4e8594f30e6, type: 2}
+  - {fileID: 11400000, guid: bca8366680136714b936a2acbf2f70ea, type: 2}
+  isPartial: 0
+  comboImg: {fileID: 0}

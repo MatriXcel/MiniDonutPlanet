@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8c94104f81e337d4c85bb3c18e28a1b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bubblegum Sans
+  fontNames:
+  - Bubblegum Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b4951d7bb0f3f94882c097c16b91100, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
